@@ -27,18 +27,6 @@
 
 ---
 
-## 📂 Struktura projektu
-```
-Maldo/
-│── Projekt i realizacja przygodowej gry platformowej 2D.exe  ✅ (plik wykonywalny gry)
-│── Assets/  🎨 (pliki graficzne i animacje)
-│── Scripts/  🖥️ (skrypty w C#)
-│── Scenes/  🌍 (poziomy i świat gry)
-│── README.md  📜 (ten plik)
-```
-
----
-
 ## 🎯 Cel projektu
 Gra została stworzona jako część mojej pracy inżynierskiej i jest dowodem na możliwość realizacji w pełni funkcjonalnej gry **metroidvania** w Unity. Projekt rozwijał moje umiejętności w zakresie **programowania gier, projektowania poziomów oraz optymalizacji mechanik rozgrywki**.
 
